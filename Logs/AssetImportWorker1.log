@@ -1,0 +1,570 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.19f1 (5f5eb8bbdc25) revision 6250168'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 6080 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Abdul/Documents/1 GBC/Yr 3 Sem 1/Mobile Game Dev/GAME2014-Lab7
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55342
+Successfully changed project path to: C:/Users/Abdul/Documents/1 GBC/Yr 3 Sem 1/Mobile Game Dev/GAME2014-Lab7
+C:/Users/Abdul/Documents/1 GBC/Yr 3 Sem 1/Mobile Game Dev/GAME2014-Lab7
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1862.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.19f1 (5f5eb8bbdc25)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Abdul/Documents/1 GBC/Yr 3 Sem 1/Mobile Game Dev/GAME2014-Lab7/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Renderer: AMD Radeon(TM) Vega 8 Graphics
+Vendor:   ATI Technologies Inc.
+Version:  4.5.13596 Core Profile Forward-Compatible/Debug Context 20.10.16 27.20.1016.1
+GLES:     0
+ GL_AMDX_debug_output GL_AMD_blend_minmax_factor GL_AMD_conservative_depth GL_AMD_debug_output GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_sample_positions GL_AMD_gcn_shader GL_AMD_gpu_shader_half_float GL_AMD_gpu_shader_half_float_fetch GL_AMD_gpu_shader_int16 GL_AMD_gpu_shader_int64 GL_AMD_interleaved_elements GL_AMD_multi_draw_indirect GL_AMD_name_gen_delete GL_AMD_occlusion_query_event GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_sample_positions GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_atomic_counter_ops GL_AMD_shader_stencil_export GL_AMD_shader_stencil_value_export GL_AMD_shader_trace GL_AMD_shader_trinary_minmax GL_AMD_sparse_texture GL_AMD_sparse_texture_pool GL_AMD_stencil_operation_extended GL_AMD_texture_cube_map_array GL_AMD_texture_texture4 GL_AMD_transform_feedback3_lines_triangles GL_AMD_transform_feedback4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibilit
+y GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL
+_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding G
+L_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_shadow_ambient GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_tex
+ture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_snorm GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_envmap_bumpmap GL_ATI_fragment_shader GL_ATI_separate_stencil GL_ATI_texture_compression_3dc GL_ATI
+_texture_env_combine3 GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_copy_buffer GL_EXT_copy_texture GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_histogram GL_EXT_memory_object GL_EXT_memory_object_win32 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_semaphore GL_EXT_semaphore_win32 GL_EXT_separate_specular_color GL_EXT_shader_image_loa
+d_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_EXT_subtexture GL_EXT_texgen_reflection GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_bptc GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_texture_mirrored_repeat GL_INTEL_fragment_shader_ordering GL_KHR_context_flush_control GL_KHR_de
+bug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_explicit_multisample GL_NV_float_buffer GL_NV_half_float GL_NV_primitive_restart GL_NV_shader_atomic_int64 GL_NV_texgen_reflection GL_NV_texture_barrier GL_OES_EGL_image GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_SUN_multi_draw_arrays GL_WIN_swap_hint WGL_EXT_swap_control
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 65537
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.023223 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 380.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.250 seconds
+Domain Reload Profiling:
+	ReloadAssembly (11251ms)
+		BeginReloadAssembly (525ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (4ms)
+		EndReloadAssembly (1818ms)
+			LoadAssemblies (515ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (625ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (948ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (381ms)
+				BeforeProcessingInitializeOnLoad (4ms)
+				ProcessInitializeOnLoadAttributes (464ms)
+				ProcessInitializeOnLoadMethodAttributes (72ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.031977 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 221.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+WARNING: RGBA Compressed ETC2 sRGB format is not supported, decompressing texture
+Mono: successfully reloaded assembly
+- Completed reload, in  4.524 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4525ms)
+		BeginReloadAssembly (1924ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (2452ms)
+			LoadAssemblies (1837ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (661ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (97ms)
+			SetupLoadedEditorAssemblies (1211ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (222ms)
+				BeforeProcessingInitializeOnLoad (202ms)
+				ProcessInitializeOnLoadAttributes (697ms)
+				ProcessInitializeOnLoadMethodAttributes (58ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
+Refreshing native plugins compatible for Editor in 2.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3927 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4359.
+Total: 9.844200 ms (FindLiveObjects: 0.653400 ms CreateObjectMapping: 0.564400 ms MarkObjects: 8.446200 ms  DeleteObjects: 0.175900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/[Scripts]/DeathPlaneController.cs
+  artifactKey: Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/DeathPlaneController.cs using Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50f72ec4b4fda58e326a2bc0fe3abed') in 0.092383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 103.997128 seconds.
+  path: Assets/[Scripts]/DeathPlaneController.cs
+  artifactKey: Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/DeathPlaneController.cs using Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba0a0712226898c7abceeda922bc678') in 0.006325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.725636 seconds.
+  path: Assets/[Scripts]/DeathPlaneController.cs
+  artifactKey: Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/DeathPlaneController.cs using Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bbc8296d4ca89da3f755028cd64335f') in 0.006042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.126329 seconds.
+  path: Assets/[Scripts]/DeathPlaneController.cs
+  artifactKey: Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/DeathPlaneController.cs using Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f427bffd3a9ecc3548f2a2f3031dfeca') in 0.007755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2875.082096 seconds.
+  path: Assets/[Scripts]/DeathPlaneController.cs
+  artifactKey: Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/DeathPlaneController.cs using Guid(cf7cfd87170a76b4893db838b1e0b082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fdb72410a0595f5ee382a9f57b0411b') in 0.009105 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.025137 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.758 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2762ms)
+		BeginReloadAssembly (898ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (97ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (427ms)
+		EndReloadAssembly (1719ms)
+			LoadAssemblies (388ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (665ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (528ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3917 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.6 MB.
+System memory in use after: 143.8 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4361.
+Total: 13.438800 ms (FindLiveObjects: 1.033200 ms CreateObjectMapping: 0.153000 ms MarkObjects: 12.140300 ms  DeleteObjects: 0.108200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020100 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.874 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1875ms)
+		BeginReloadAssembly (221ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (64ms)
+		EndReloadAssembly (1547ms)
+			LoadAssemblies (193ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (600ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (514ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (119ms)
+				ProcessInitializeOnLoadAttributes (349ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3917 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 143.9 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4363.
+Total: 8.673400 ms (FindLiveObjects: 0.714600 ms CreateObjectMapping: 0.521800 ms MarkObjects: 7.390600 ms  DeleteObjects: 0.044200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 118.923129 seconds.
+  path: Assets/[Scenes]/Main.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scenes]/Main.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a7f469f44be1fef481508de1f7c5bc') in 0.040050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.234122 seconds.
+  path: Assets/[Scripts]/GameController.cs
+  artifactKey: Guid(97dc533ebfb54f246b1b894e45144e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/GameController.cs using Guid(97dc533ebfb54f246b1b894e45144e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d798048ac64b39f73c6004d8e89126') in 0.011136 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020026 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.487 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2488ms)
+		BeginReloadAssembly (253ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (68ms)
+		EndReloadAssembly (2114ms)
+			LoadAssemblies (262ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (824ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (123ms)
+			SetupLoadedEditorAssemblies (619ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (147ms)
+				ProcessInitializeOnLoadAttributes (422ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3918 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 144.0 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4366.
+Total: 8.676300 ms (FindLiveObjects: 0.515000 ms CreateObjectMapping: 0.248300 ms MarkObjects: 7.875200 ms  DeleteObjects: 0.031700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 47.648338 seconds.
+  path: Assets/[Scripts]/GameController.cs
+  artifactKey: Guid(97dc533ebfb54f246b1b894e45144e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/GameController.cs using Guid(97dc533ebfb54f246b1b894e45144e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa712c94b73a352e7ca29d927b88564') in 0.027043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.283701 seconds.
+  path: Assets/[Scripts]/GameController.cs
+  artifactKey: Guid(97dc533ebfb54f246b1b894e45144e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/GameController.cs using Guid(97dc533ebfb54f246b1b894e45144e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4bfe6b87c72f729e6e35ed0ae8c146f') in 0.008451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.189040 seconds.
+  path: Assets/[Scripts]/GameController.cs
+  artifactKey: Guid(97dc533ebfb54f246b1b894e45144e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Scripts]/GameController.cs using Guid(97dc533ebfb54f246b1b894e45144e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cde382e7a462ffc6bdca7e5fe13e688') in 0.010560 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016205 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.10 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.243 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2243ms)
+		BeginReloadAssembly (229ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (73ms)
+		EndReloadAssembly (1900ms)
+			LoadAssemblies (204ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (696ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (114ms)
+			SetupLoadedEditorAssemblies (606ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (134ms)
+				ProcessInitializeOnLoadAttributes (425ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.12 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3918 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 144.0 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4368.
+Total: 6.880500 ms (FindLiveObjects: 0.483800 ms CreateObjectMapping: 0.176900 ms MarkObjects: 6.181900 ms  DeleteObjects: 0.035600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017113 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.212 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2213ms)
+		BeginReloadAssembly (237ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (1866ms)
+			LoadAssemblies (212ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (606ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (679ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (152ms)
+				ProcessInitializeOnLoadAttributes (472ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (23ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3918 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.8 MB.
+System memory in use after: 144.0 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4370.
+Total: 7.207400 ms (FindLiveObjects: 0.857100 ms CreateObjectMapping: 0.291100 ms MarkObjects: 6.001000 ms  DeleteObjects: 0.055600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011748 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014-Lab7\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.782 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2783ms)
+		BeginReloadAssembly (346ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (139ms)
+		EndReloadAssembly (2303ms)
+			LoadAssemblies (307ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (701ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (102ms)
+			SetupLoadedEditorAssemblies (868ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (242ms)
+				ProcessInitializeOnLoadAttributes (573ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3918 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.8 MB.
+System memory in use after: 144.0 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4372.
+Total: 7.224400 ms (FindLiveObjects: 0.487300 ms CreateObjectMapping: 0.229500 ms MarkObjects: 6.460600 ms  DeleteObjects: 0.044400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
