@@ -1418,4 +1418,4 @@ MonoBehaviour:
   speed: 2
   distance: 8
   distanceOffset: 0.05
-  isLooping: 0
+  isLooping: 1
